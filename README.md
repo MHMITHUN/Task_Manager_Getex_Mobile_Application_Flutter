@@ -1,0 +1,1 @@
+**This Flutter app is a super helpful task manager that'll keep you organized and on top of your goals. It's designed to be super secure and easy to use, with a bunch of features to help you manage your tasks like a pro.**
